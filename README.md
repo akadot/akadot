@@ -1,6 +1,6 @@
 Hi there! ✌
 
-I'm Murilo, a brazilian developer and an eternal student.
+I'm Murilo, a brazilian developer and an eternal student. 📚
 
 Find me in:
 
