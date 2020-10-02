@@ -1,7 +1,8 @@
-
-<h1 align="center"> Hi there! ✌ </h1> 
+<div align="center">
+<h1 align="center"> Hi there! ✌ </h1>
 
 <h2 align="center"> I'm Murilo, a brazilian developer and an eternal student. 📚</h2>
+</div>
 
 <div align="center">
 <h3 align="center"> Find me on: </h3>
