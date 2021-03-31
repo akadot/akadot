@@ -15,5 +15,5 @@
 <div align="center">
 <img  src = "https://github-readme-stats.vercel.app/api?username=muril0-0&count_private=true&include_all_commits=true&show_icons=true&bg_color=FF000000&&title_color=8E71DC&text_color=0FCBFA&icon_color=FE938C"/>
 <br/>
-<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muril0-0&layout=compact&bg_color=FF000000&&title_color=8E71DC&text_color=0FCBFA&icon_color=FE938C"/>
+<img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=muril0-0&layout=compact&langs_count=8&bg_color=FF000000&&title_color=8E71DC&text_color=0FCBFA&icon_color=FE938C"/>
 </div>
