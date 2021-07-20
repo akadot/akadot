@@ -68,7 +68,7 @@ Hi there! ✌
 <div align="left">
 <h2>👥 Community:</h2>
 
-[![Discord Banner](https://discordapp.com/api/guilds/842160542059855934/widget.png?style=banner2)]("https://discord.gg/6qja9pEJa9")
+[![Discord Banner](https://discordapp.com/api/guilds/842160542059855934/widget.png?style=banner2)](https://discord.gg/6qja9pEJa9)
 
 </div>
 
