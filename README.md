@@ -7,8 +7,10 @@
 <div align="center">
 <h3 align="center"> Find me on: </h3>
 
-<span align="center">[![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/muril0__)](https://twitter.com/muril0__)</span>
+<span align="center">[![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/dotdev_)](https://twitter.com/dotdev_)</span>
 <span align="center">[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)</span>
+<span align="center">[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)</span>
+<span align="center">[![Youtube Badge](https://img.shields.io/badge/-Youtube-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Youtube&logoColor=31363F&link=https://www.youtube.com/channel/UCgZ3l4znZzx9pVX7N7MVdng)](https://www.youtube.com/channel/UCgZ3l4znZzx9pVX7N7MVdng)</span>
 <span align="center">[![Behance Badge](https://img.shields.io/badge/-Behance-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Behance&logoColor=31363F&link=https://www.behance.net/murilo-o)](https://www.behance.net/murilo-o)</span>
 </div>
 
