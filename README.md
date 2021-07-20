@@ -36,8 +36,6 @@ Hi there! ✌
 
 </div>
 
----
-
 </br>
 
 <div align="left">
@@ -55,8 +53,6 @@ Hi there! ✌
 </div>
 </div>
 
----
-
 </br>
 
 <div align="left">
@@ -66,7 +62,6 @@ Hi there! ✌
 
 </div>
 
----
 
 </br>
 
@@ -76,8 +71,6 @@ Hi there! ✌
 [![Discord Banner](https://discordapp.com/api/guilds/842160542059855934/widget.png?style=banner2)]("https://discord.gg/6qja9pEJa9")
 
 </div>
-
----
 
 </br>
 
