@@ -1,4 +1,4 @@
-<a href="https://supermariodraws.artstation.com" target="_blank" rel="noopener noreferrer"><img src="./png/oni.png" min-width="350px" max-width="500px" width="400px" align="right" alt="Computador iuriCode"></a>
+<a href="https://supermariodraws.artstation.com" target="_blank" rel="noopener noreferrer"><img  style="margin-left: 100px" src="./png/oni.png" min-width="350px" max-width="500px" width="500px" align="right" alt="Oni"></a>
 
 <h1 align="left" >
 Hi there! ✌
@@ -42,7 +42,7 @@ Hi there! ✌
 
 <div align="left">
 
-<h2>💬 Find here:</h2>
+<h2>💬 Find me here:</h2>
 
 <div style="display: inline_block" align="left">
 
@@ -81,4 +81,4 @@ Hi there! ✌
 
 </br>
 
-<span align="center">![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑]('./svg/github-contribution-grid-snake')</span>
+<span align="center"><img src="./svg/github-contribution-grid-snake.svg" align="center" alt="Snake"></span>
