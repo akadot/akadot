@@ -6,7 +6,6 @@ Hi there! ✌
 
 <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.📚</p>
 
-</br>
 
 <h2>💻 Techs:</h2>
 
