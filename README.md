@@ -6,6 +6,10 @@ Hi there! ✌
 
 <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.📚</p>
 
+</br>
+
+<h2>💻 Techs:</h2>
+
 <div align="left" style="display: inline_block" >
 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
