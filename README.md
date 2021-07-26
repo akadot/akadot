@@ -20,6 +20,8 @@ Hi there! ✌
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
 
@@ -33,6 +35,8 @@ Hi there! ✌
 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
 
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
+  
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg'>
