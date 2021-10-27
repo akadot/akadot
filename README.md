@@ -9,37 +9,30 @@ Hi there! ✌
 
 <h2>💻 Techs:</h2>
 
-<div align="left" style="display: inline_block" >
-  
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+<div align="left">
 
+<strong>Front-end:</strong> 
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-  
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-  
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg'>
 
+<strong>Back-end:</strong>
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
 
+<strong>Database:</strong>
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-  
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
 
+<strong>Design:</strong>
+<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
 <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg'>
 
 </div>
-
-</br>
 
 <div align="left">
 
@@ -56,17 +49,12 @@ Hi there! ✌
 </div>
 </div>
 
-</br>
-
 <div align="left">
 <h2>🎧 Listening now:</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
 
 </div>
-
-
-</br>
 
 <div align="left">
 <h2>👥 Community:</h2>
