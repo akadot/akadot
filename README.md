@@ -11,26 +11,11 @@ Hi there! ✌
 
 <div align="left">
 
-<strong>Front-end:</strong> 
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg'>
-
-<strong>Back-end:</strong>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
-
-<strong>Database:</strong>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-
-<strong>Design:</strong>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
-<img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg'>
+| 🧱 **Stack** | 🚀 **Projects** |
+|-|-----|
+| <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> | [![game-of-life](https://img.shields.io/static/v1?label=game-of-life&message=%20&color=5c3ec9&logo=github&logoColor=black&labelColor=5c3ec9)](https://github.com/akadot/game-of-life) [![30-days-css](https://img.shields.io/static/v1?label=30-days-css&message=%20&color=ff5a55&logo=github&logoColor=black&labelColor=ff5a55)](https://github.com/akadot/30diasDeCSS) |
+| <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> | [![terminal-chat](https://img.shields.io/static/v1?label=terminal-chat&message=%20&color=50FA7B&logo=github&logoColor=black&labelColor=50FA7B)](https://github.com/akadot/terminal-chat) [![subtitle-translate](https://img.shields.io/static/v1?label=subtitle-translate&message=%20&color=ffb038&logo=github&logoColor=black&labelColor=ffb038)](https://github.com/akadot/subtitle-translate) |
+| <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'> <img height="20" width="20" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'> | [![front-end-pratice](https://img.shields.io/static/v1?label=front-end-pratice&message=%20&color=007acc&logo=github&logoColor=black&labelColor=007acc)](https://github.com/akadot/front-end-pratice) |
 
 </div>
 
@@ -40,11 +25,9 @@ Hi there! ✌
 
 <div style="display: inline_block" align="left">
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=flat-square&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/dotdev_)](https://twitter.com/dotdev_)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Youtube&logoColor=31363F&link=https://www.youtube.com/channel/UCgZ3l4znZzx9pVX7N7MVdng)](https://www.youtube.com/channel/UCgZ3l4znZzx9pVX7N7MVdng)
-[![Behance Badge](https://img.shields.io/badge/-Behance-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Behance&logoColor=31363F&link=https://www.behance.net/murilo-o)](https://www.behance.net/murilo-o)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/dotdev_)](https://twitter.com/dotdev_)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
 
 </div>
 </div>
