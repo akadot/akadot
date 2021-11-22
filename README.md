@@ -4,7 +4,7 @@
 Hi there! ✌
 </h1>
 
-<p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.📚</p>
+<p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.</p>
 
 
 <h2>💻 Techs:</h2>
