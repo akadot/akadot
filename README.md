@@ -12,8 +12,6 @@ Hi there! ✌
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=for-the-badge&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
 
-<br/>
-
 <h2>💻 Techs:</h2>
 
 | 🧱 **Stack** | 🚀 **Projects** |
@@ -24,13 +22,9 @@ Hi there! ✌
 | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'> | [![front-end-pratice](https://img.shields.io/static/v1?label=front-end-pratice&message=%20&color=007acc&logo=github&logoColor=black&labelColor=007acc&style=flat-square)](https://github.com/akadot/front-end-pratice) |
 | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'> | [![covid-data-analysis](https://img.shields.io/static/v1?label=covid-data-analysis&message=%20&color=ea558d&logo=github&logoColor=black&labelColor=ea558d&style=flat-square)](https://github.com/akadot/https://github.com/akadot/covid-data-analysis) |
 
-<br/>
-
 <h2>🎧 Listening now:</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
-
-</br>
 
 <h2>📓 Blog Posts:</h2>
 
