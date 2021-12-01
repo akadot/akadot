@@ -34,7 +34,7 @@ Hi there! ✌
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
 
-<h2>📓 Blog Posts:</h2>
+<h2>📓 Posts:</h2>
 
 Soon...
 
