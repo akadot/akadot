@@ -7,12 +7,6 @@ Hi there! ✌
 </h1>
 
 <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.</p>
-
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=flat-square&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/akadot_)](https://twitter.com/dotdev_)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_) -->
   
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dotdev_)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-o)
@@ -36,7 +30,7 @@ Hi there! ✌
 
 <h2>📓 Last Posts:</h2>
 
-- [Praticando HTML, CSS e Javascript Vanilla - Reproduzindo o Jogo da Vida de John Conway](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog)
+- Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript - [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) | [EN]()
 
 </div>
 
