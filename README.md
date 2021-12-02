@@ -34,7 +34,7 @@ Hi there! ✌
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
 
-<h2>📓 Posts:</h2>
+<h2>📓 Last Posts:</h2>
 
 - [Praticando HTML, CSS e Javascript Vanilla - Reproduzindo o Jogo da Vida de John Conway](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog)
 
