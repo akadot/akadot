@@ -8,7 +8,7 @@ Hi there! ✌
 
 <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student.</p>
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=flat-square&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/dotdev_)](https://twitter.com/dotdev_)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-5c3ec9?style=flat-square&labelColor=50FA7B&logo=twitter&logoColor=31363F&link=https://twitter.com/akadot_)](https://twitter.com/dotdev_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Linkedin&logoColor=31363F&link=https://www.linkedin.com/in/murilo-o)](https://www.linkedin.com/in/murilo-o)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-5c3ec9?style=flat-square&labelColor=50FA7B&logo=Twitch&logoColor=31363F&link=https://www.twitch.tv/dotdev_)](https://www.twitch.tv/dotdev_)
