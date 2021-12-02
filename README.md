@@ -36,7 +36,7 @@ Hi there! ✌
 
 <h2>📓 Posts:</h2>
 
-Soon...
+- [Praticando HTML, CSS e Javascript Vanilla - Reproduzindo o Jogo da Vida de John Conway](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog)
 
 </div>
 
