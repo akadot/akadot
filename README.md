@@ -11,7 +11,7 @@
   [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/akadot_)&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-o)&nbsp;
   [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/dotdev_)&nbsp;
-  [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/akadot_)&nbsp;
+  [![Dev.to Badge](https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/akadot_)&nbsp;
   [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@akadot_)
   
    
