@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://supermariodraws.artstation.com" ><img  style="margin-left: 150px" src="./png/oni.png" min-width="350px" max-width="550px" width="500px" align="right" alt="Oni"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://supermariodraws.artstation.com" ><img  style="margin-left: 150px" src="./png/oni.png" min-width="350px" max-width="500px" width="450px" align="right" alt="Oni"></a>
 
 <div align="left">
 
