@@ -15,7 +15,7 @@
   [![Medium Badge](https://img.shields.io/badge/Medium-5c3ec9?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@akadot_)
   
    
-  <a href="https://www.buymeacoffee.com/akadot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 45px ;width: 160px; font-family: Arial "></a>
+  <a href="https://www.buymeacoffee.com/akadot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 45px ;width: 160px;"></a>
 
   <h2>💻 Techs:</h2>
 
