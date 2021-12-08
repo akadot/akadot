@@ -33,7 +33,7 @@
 
   <h2>📓 Last Posts:</h2>
 
-  - <h4> Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript - <a href="https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog" target="_blank">PT/BR</a> | <a href="https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn" target="_blank">EN</a> </h4>
+  - **Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript - [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) | [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn)**
   
   <br/>  
 
