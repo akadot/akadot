@@ -6,7 +6,7 @@
   Hi there! ✌
   </h1>
 
-  <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian web development student. 📚</p>
+  <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian programmer student. 📚</p>
 
   [![Twitter Badge](https://img.shields.io/badge/Twitter-5c3ec9?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/akadot_)&nbsp;
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5c3ec9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-o)&nbsp;
