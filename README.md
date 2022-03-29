@@ -13,9 +13,6 @@
   [![Twitch Badge](https://img.shields.io/badge/Twitch-5c3ec9?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/dotdev_)&nbsp;
   [![Dev.to Badge](https://img.shields.io/badge/DEV.to-5c3ec9?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/akadot_)&nbsp;
   [![Medium Badge](https://img.shields.io/badge/Medium-5c3ec9?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@akadot_)
-  
-   
-  <a href="https://www.buymeacoffee.com/akadot" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 45px ;width: 160px;"></a>
 
   <h2>💻 Techs:</h2>
 
