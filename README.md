@@ -8,11 +8,14 @@
 
   <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian programmer student. 📚</p>
 
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-5c3ec9?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/akadot_)&nbsp;
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-5c3ec9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-o)&nbsp;
-  [![Twitch Badge](https://img.shields.io/badge/Twitch-5c3ec9?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/dotdev_)&nbsp;
-  [![Dev.to Badge](https://img.shields.io/badge/DEV.to-5c3ec9?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/akadot_)&nbsp;
-  [![Medium Badge](https://img.shields.io/badge/Medium-5c3ec9?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@akadot_)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-FFCC00?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/akadot_)&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-5c3ec9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-o)&nbsp;
+  [![Twitch Badge](https://img.shields.io/badge/Twitch-FFCC00?style=for-the-badge&logo=twitch&logoColor=black)](https://www.twitch.tv/dotdev_)&nbsp;
+  [![Dev.to Badge](https://img.shields.io/badge/dev.to-5c3ec9?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/akadot_)&nbsp;
+  [![Medium Badge](https://img.shields.io/badge/Medium-FFCC00?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@akadot_)
+  
+  <!--  Purple: 5c3ec9 -->
+  <!--  Yellow: FFCC00 -->
 
   <h2>💻 Techs:</h2>
 
