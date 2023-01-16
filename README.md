@@ -47,11 +47,11 @@
 
   <h2>📓 Last Posts:</h2>
   
-  - **[PT/BR](https://dev.to/akadot_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) -- [EN](https://dev.to/akadot_/how-to-create-a-awesome-github-readme-4mb4) | Como criar um README para o seu perfil do Github**
+  - **Como criar um README para o seu perfil do Github | [PT/BR](https://dev.to/akadot_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) -- [EN](https://dev.to/akadot_/how-to-create-a-awesome-github-readme-4mb4)**
 
-  - **[PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) -- [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn) | Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript**
+  - **Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript | [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) -- [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn)**
   
-  - **[Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f) | Culpa: A arte política de manipular a responsabilidade social**
+  - **Culpa: A arte política de manipular a responsabilidade social | [Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f)**
   
   <br/>  
 
