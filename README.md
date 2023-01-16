@@ -19,13 +19,27 @@
 
   <h2>💻 Techs:</h2>
 
-  | 🧱 **Stack** | 🚀 **Projects** |
-  |-|-----|
-  | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons//typescript/typescript-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'> <img height="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img height="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg'> | [![dotdev.me](https://img.shields.io/static/v1?label=dotdev.me&message=%20&color=FFCC00&logo=github&logoColor=black&labelColor=FFCC00&style=flat-square)](https://github.com/akadot/dotdev.me) |
-  | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> | [![game-of-life](https://img.shields.io/static/v1?label=game-of-life&message=%20&color=007acc&logo=github&logoColor=black&labelColor=007acc&style=flat-square)](https://github.com/akadot/game-of-life) [![30-days-css](https://img.shields.io/static/v1?label=30-days-css&message=%20&color=ff5a55&logo=github&logoColor=black&labelColor=ff5a55&style=flat-square)](https://github.com/akadot/30diasDeCSS) |
-  | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg'>  | [![lets-code-fullstack](https://img.shields.io/static/v1?label=lets-code-fullstack&message=%20&color=8338ec&logo=github&logoColor=black&labelColor=8338ec&style=flat-square)](https://github.com/akadot/lets-code-fullstack) [![bug-tracker](https://img.shields.io/static/v1?label=bug-tracker&message=%20&color=e63946&logo=github&logoColor=black&labelColor=e63946&style=flat-square)](https://github.com/akadot/bug-tracker) |
-  | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'> <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'> | [![nodejs-practice](https://img.shields.io/static/v1?label=nodejs-practice&message=%20&color=50FA7B&logo=github&logoColor=black&labelColor=50FA7B&style=flat-square)](https://github.com/akadot/nodejs-practice) [![terminal-chat](https://img.shields.io/static/v1?label=terminal-chat&message=%20&color=ffb038&logo=github&logoColor=black&labelColor=ffb038&style=flat-square)](https://github.com/akadot/terminal-chat)  |
-  | <img height="23" width="23" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'> | [![covid-data-analysis](https://img.shields.io/static/v1?label=covid-data-analysis&message=%20&color=ea558d&logo=github&logoColor=black&labelColor=ea558d&style=flat-square)](https://github.com/akadot/covid-data-analysis) [![virtual-assistant](https://img.shields.io/static/v1?label=virtual-assistant&message=%20&color=2a9d8f&logo=github&logoColor=black&labelColor=2a9d8f&style=flat-square)](https://github.com/akadot/virtual-assistant) |
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  
+  
 
   <h2>🎧 Listening now:</h2>
 
@@ -33,11 +47,11 @@
 
   <h2>📓 Last Posts:</h2>
   
-  - **Como criar um README para o seu perfil do Github - [PT/BR](https://dev.to/akadot_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) | [EN](https://dev.to/akadot_/how-to-create-a-awesome-github-readme-4mb4)**
+  - **🇧🇷 [PT/BR](https://dev.to/akadot_/como-criar-um-readme-para-o-seu-perfil-do-github-404n) -- 🇺🇸 [EN](https://dev.to/akadot_/how-to-create-a-awesome-github-readme-4mb4) | Como criar um README para o seu perfil do Github**
 
-  - **Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript - [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) | [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn)**
+  - **🇧🇷 [PT/BR](https://dev.to/akadot_/praticando-html-css-e-javascript-vanilla-reproduzindo-o-jogo-da-vida-de-john-conway-2iog) -- 🇺🇸 [EN](https://dev.to/akadot_/learning-html-css-and-javascript-vanilla-reproducing-the-john-conways-game-of-life-9pn) | Criando o Jogo da Vida de John Conway com HTML, CSS e Javascript**
   
-  - **Culpa: A arte política de manipular a responsabilidade social - [Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f)**
+  - **🇧🇷 [Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f) | Culpa: A arte política de manipular a responsabilidade social**
   
   <br/>  
 
