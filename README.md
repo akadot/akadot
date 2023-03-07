@@ -55,13 +55,15 @@
   
   <br/>  
 
-</div>
-
-<span align="center"><img src="./svg/github-contribution-grid-snake.svg" align="center" alt="Snake"></span>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+  
+</div>
+
+<span align="center"><img src="./svg/github-contribution-grid-snake.svg" align="center" alt="Snake"></span>
+
+
