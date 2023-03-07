@@ -54,16 +54,14 @@
   - **Culpa: A arte política de manipular a responsabilidade social | [Medium - PT/BR](https://medium.com/@akadot_/culpa-a-arte-pol%C3%ADtica-de-manipular-a-responsabilidade-social-65c0f19a363f)**
   
   <br/>  
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+ 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/akadot/akadot/blob/d17c842e1700a2930a312e9d264d28379c27ba5d/github-contribution-grid-snake.svg" />
 </picture>
-  
+ 
 </div>
 
-<span align="center"><img src="./svg/github-contribution-grid-snake.svg" align="center" alt="Snake"></span>
 
 
