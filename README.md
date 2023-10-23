@@ -9,7 +9,6 @@
   <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian developer. 📚</p>
 
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&labelColor=5c3ec9&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
-  [![Twitch Badge](https://img.shields.io/badge/Twitch-000?style=for-the-badge&logo=twitch&labelColor=FFCC00&logoColor=black)](https://www.twitch.tv/dotdev_)&nbsp;
   [![Dev.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&labelColor=5c3ec9&logoColor=black)](https://dev.to/akadot_)&nbsp;
   [![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&labelColor=FFCC00&logoColor=black)](https://medium.com/@akadot_)
   
