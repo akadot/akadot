@@ -8,9 +8,13 @@
 
   <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian developer. 📚</p>
 
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&labelColor=5c3ec9&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&labelColor=0a66c2&logoColor=black)](https://www.linkedin.com/in/murilo-o)&nbsp;
   [![Dev.to Badge](https://img.shields.io/badge/dev.to-000?style=for-the-badge&logo=dev.to&labelColor=FFCC00&logoColor=black)](https://dev.to/akadot_)&nbsp;
-  [![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&labelColor=5c3ec9&logoColor=black)](https://medium.com/@akadot_)
+  [![Medium Badge](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&labelColor=00ab6c&logoColor=black)](https://medium.com/@akadot_)&nbsp;
+  [![Medium Badge](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&labelColor=ea4335&logoColor=black)](https://www.youtube.com/@dotdev_)&nbsp;
+  [![Medium Badge](https://img.shields.io/badge/Mail-000?style=for-the-badge&logo=gmail&labelColor=6e5494&logoColor=black)](mailto:muriloholiveira@hotmail.com)&nbsp;
+
+
   
   <!--  Purple: 5c3ec9 -->
   <!--  Yellow: FFCC00 -->
@@ -55,6 +59,7 @@
   <h5>🛠️ Softwares and Tools: </h5>
  
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mercurial-999999?style=for-the-badge&logo=mercurial&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/>
