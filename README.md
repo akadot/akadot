@@ -3,7 +3,7 @@
 <div align="left">
 
   <h1>
-  Hi there! ✌
+  Hi there! ✌️
   </h1>
 
   <p>I'm Murilo Oliveira <i><b>(aka dot_)</b></i>, a Brazilian developer. 📚</p>
