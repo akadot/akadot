@@ -69,7 +69,7 @@
 
   <h2>🎧 Listening now:</h2>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=33d17a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=i0buq9ey3yf4ki78q5bn5ogn9&redirect=true)
 
   <h2>📓 Last Posts:</h2>
   
